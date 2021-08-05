@@ -1,5 +1,5 @@
-<h1> Forest <h1>
+<h1> Foresti <h1>
 
-<p> Discover the magic with communities, Events and Earnings. <p>
+<h4> Discover the magic with communities, Events and Earnings. <h4>
 
 *very rearly pre dev*
