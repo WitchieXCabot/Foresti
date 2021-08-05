@@ -4,7 +4,7 @@
 <br />
 <p align="center">
     <a href="http://www.witchie-me.xyz/">
-    <img src="/images/Foresti.png" alt="Logo" width="600" height="200">
+    <img src="/images/Foresti.png" alt="Logo" width="600" height="400">
   </a>
 
   <h3 align="center">Discover the magic</h3>
