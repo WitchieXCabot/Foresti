@@ -15,7 +15,6 @@
     <a href="http://www.witchie-me.xyz/"><strong> Thing here »</strong></a>
     <br />
     <br />
-    <a href="http://www.witcherybot.xyz/"> Thing here </a>    
   </p>
 </p>
 
@@ -25,7 +24,7 @@
 ## About The Project
 
 **Foresti:**
-Discover the magic: Communities, Events, Chat & Earnings. Make a triving community with foresti!
+Discover the magic: Communities, Events, Chat & Earnings. Make a thriving community with foresti!
 
 
 
@@ -39,11 +38,6 @@ Discover the magic: Communities, Events, Chat & Earnings. Make a triving communi
 <!-- CONTACT -->
 ## Contact
 
-Foresti - [Email](witcherywonders.contact@gmail.com)
-
-Website: [WitcheryBOT](http://www.witcherybot.xyz/)
-
-Suport me: [Patreon]()
-
+Discord: `Witchie#0999`
 
 # ------
